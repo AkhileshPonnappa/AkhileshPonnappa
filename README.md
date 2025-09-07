@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @AkhileshPonnappa
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on Front end projects
-- 📫 Contact me via my linkedIn profile @akhileshponnappa
+- 👀 I’m currently working as a Data Engineer who has a liking towards Full Stack development!
+- 🌱 I’m learning Data Analysis
+- 💞️ I’m looking to collaborate on Full Stack projects
+- 📫 Contact me via my linkedIn profile [@akhileshponnappa](https://www.linkedin.com/in/akhilesh-b-p-491779212/)
+- 
 
 <!---
 AkhileshPonnappa/AkhileshPonnappa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
